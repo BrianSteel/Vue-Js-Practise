@@ -12,7 +12,7 @@
 ### Look Out! One Error Here
 
 - Deliberately mutates props in Header and Footer Components
-- So creates an anti-pattern in the created function
+- So creates an anti-pattern in the changeTitle function
 - can be solved with computed prop
 
 ## Build Setup
