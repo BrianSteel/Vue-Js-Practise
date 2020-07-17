@@ -1,6 +1,13 @@
 # my-project
 
 > A Vue.js project
+## playing around and trying out vue js with:
+
+- props
+- components
+- reference and primitive variables
+- emit
+- event bus
 
 ## Build Setup
 
