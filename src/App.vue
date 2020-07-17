@@ -19,6 +19,7 @@ import Header from "./component/Header.vue";
 import Footer from "./component/Footer.vue";
 import Ninja from "./component/Ninja.vue";
 export default {
+  //components
   components: {
     "header-ninja": Header,
     "footer-ninja": Footer,
